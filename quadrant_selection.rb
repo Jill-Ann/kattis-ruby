@@ -1,5 +1,5 @@
-x = gets.chomp.to_i
-y = gets.chomp.to_i
+x, y = gets.chomp.to_i, gets.chomp.to_i
+
 
 
 if x > 0
